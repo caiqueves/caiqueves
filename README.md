@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Caíque Neves 👋</h1>
+<h1 align="center">Hi, I'm Caíque Neves Ferreira 👋</h1>
 
 <p align="center">
   <b>Senior .NET Backend Engineer</b> · 14+ years building mission-critical distributed systems<br>
-  Fintech · Retail · Healthcare · Public Sector
+  Fintech · Retail · Healthcare · Public Sector<br>
+  Recife, Brazil (UTC-3) — full overlap with US business hours · available as a contractor (PJ / EOR)
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
 
 ---
 
-I design and build **event-driven architectures** with **Apache Kafka**, cloud-native microservices on **AWS / Azure / GCP**, and high-scale .NET platforms processing **30M+ events/month**. Currently focused on integrating **AI (Claude API)** into real engineering workflows — automated PR review, document generation, and developer tooling.
+I design and build **event-driven architectures** with **Apache Kafka**, cloud-native microservices on **AWS / Azure / GCP**, and high-scale .NET platforms processing **30M+ events/month**. Currently focused on integrating **LLMs (OpenAI)** into real engineering workflows — automated PR review, document generation, and developer tooling.
 
 ## 🚀 Core Stack
 
@@ -39,21 +40,20 @@ I design and build **event-driven architectures** with **Apache Kafka**, cloud-n
 
 | Metric | Result |
 |---|---|
-| 💰 Cost reduction | US$ 400K/year — legacy SMS gateway replacement |
+| 💰 Cost reduction | BRL 400K/year (~US$70K) — legacy SMS gateway replaced by an in-house Kafka platform |
 | 📨 Event throughput | 30M+ events/month with high availability |
-| ☁️ Cloud optimization | ~20% AWS spend reduction (~US$ 80K/year) via rightsizing |
-| 🤖 RPA automation | ~US$ 200K/year in operational savings |
-| 🧪 Test coverage | 42% → 85% (50% fewer production incidents) |
+| ☁️ Cloud optimization | ~20% AWS spend reduction in 4 months via rightsizing and reserved instances |
+| 🧪 Test coverage | 42% → 85%, cutting production incidents by ~50% |
 | ⚡ Performance | 30% gains on business-critical systems |
+| 😊 Customer satisfaction | +30% CSAT after the messaging platform migration |
 
 ## 🔥 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [pr-review-agent](https://github.com/caique-neves-ferreira/pr-review-agent) | AI-powered PR review agent acting as an automated quality gate on protected branches | .NET 8 · GitHub Actions · LLM |
-| [venice-orders](https://github.com/caique-neves-ferreira/venice-orders) | Order management API with CQRS, polyglot persistence and full test suite | .NET 8 · MediatR · SQL Server + MongoDB · Docker |
-| [CleanArchMvc](https://github.com/caique-neves-ferreira/CleanArchMvc) | Reference implementation of Clean Architecture in .NET Core | .NET · DDD · CQRS |
-| [ApacheKafka-Net](https://github.com/caique-neves-ferreira/ApacheKafka-Net) | Kafka producer/consumer patterns in .NET | .NET 6 · Kafka |
+| [pr-review-agent](https://github.com/caique-neves-ferreira/pr-review-agent) | AI-powered PR review agent: reads the real diff, validates it against team standards versioned in Git, comments on the PR and can block the merge on protected branches | .NET 8 · GitHub Actions · OpenAI |
+| [obra-facil](https://github.com/caique-neves-ferreira/obra-facil) · [live demo](https://obra-facil-eta.vercel.app) | Construction-management SaaS: projects, phases and users, with Free/Pro plans | .NET 8 · React · PostgreSQL |
+| [CleanArchMvc](https://github.com/caique-neves-ferreira/CleanArchMvc) | Clean Architecture reference implementation with DDD and CQRS | .NET · DDD · CQRS |
 
 ## 🏗️ Architecture I Work With
 
@@ -81,12 +81,10 @@ I design and build **event-driven architectures** with **Apache Kafka**, cloud-n
 - 🏭 **Industry** — Grupo Moura (industrial automation, RPA)
 - 🏛️ **Public Sector** — CNJ (90+ federal courts), ATI-PE
 
-## 📈 GitHub Stats
+## 📫 Get in touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caique-neves-ferreira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-neves-ferreira&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
+Open to senior backend contract work with distributed teams.
+[LinkedIn](https://linkedin.com/in/caique-neves-ferreira) · caiquenevesdesenvolvimento@gmail.com
 
 ---
 
@@ -97,7 +95,9 @@ I design and build **event-driven architectures** with **Apache Kafka**, cloud-n
 
 **Engenheiro Backend .NET Sênior** com 14+ anos construindo sistemas distribuídos de missão crítica em fintech, varejo, saúde e setor público.
 
-Especialista em **arquitetura orientada a eventos com Kafka**, microsserviços cloud-native em **AWS/Azure/GCP** e plataformas .NET de alta escala processando **30M+ eventos/mês**. Atualmente focado em integrar **IA (Claude API)** em fluxos reais de engenharia — revisão automatizada de PRs, geração de documentos e ferramentas para desenvolvedores.
+Especialista em **arquitetura orientada a eventos com Kafka**, microsserviços cloud-native em **AWS/Azure/GCP** e plataformas .NET de alta escala processando **30M+ eventos/mês**. Atualmente focado em integrar **LLMs (OpenAI)** em fluxos reais de engenharia — revisão automatizada de PRs, geração de documentos e ferramentas para desenvolvedores.
+
+Recife, Brasil (UTC-3) · disponível como PJ.
 
 📫 **Contato:** [LinkedIn](https://linkedin.com/in/caique-neves-ferreira) · caiquenevesdesenvolvimento@gmail.com
 
